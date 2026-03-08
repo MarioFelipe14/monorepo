@@ -1,9 +1,8 @@
 {
-	"name": "@cicatrizdev/alfabit-button",
+	"name": "@felipebarbosa/alfabit-button",
 	"description": "Botão do Design System Alfabit",
 	"author": {
-		"name": "Cicatriz",
-		"email": "contato@cicatriz.dev"
+		"name": "Felipe Barbosa"
 	},
 	"license": "MIT",
 	"version": "1.1.0",
@@ -32,7 +31,7 @@
 		"styled-components": "^5.3.9",
 		"tslib": "^2.8.0",
 		"typescript": "^5.5.3",
-		"@cicatrizdev/alfabit-tokens": "workspace:*"
+		"@felipebarbosa/alfabit-tokens": "workspace:*"
 	},
 	"publishConfig": {
 		"access": "public"

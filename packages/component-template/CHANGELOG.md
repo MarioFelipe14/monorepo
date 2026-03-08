@@ -1,4 +1,4 @@
-# @cicatrizdev/alfabit-component
+# @felipebarbosa/alfabit-component
 
 ## 1.0.0
 

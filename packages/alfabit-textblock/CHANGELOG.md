@@ -1,4 +1,4 @@
-# @cicatrizdev/alfabit-textblock
+# @felipebarbosa/alfabit-textblock
 
 ## 1.0.0
 

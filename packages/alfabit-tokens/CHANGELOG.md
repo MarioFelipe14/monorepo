@@ -1,4 +1,4 @@
-# @cicatrizdev/alfabit-tokens
+# @felipebarbosa/alfabit-tokens
 
 ## 1.1.0
 

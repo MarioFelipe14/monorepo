@@ -1,12 +1,12 @@
 import { createContext, useState } from 'react';
-import { Theme, defaultTheme } from '@cicatrizdev/alfabit-tokens';
+import { Theme, defaultTheme } from '@felipebarbosa/alfabit-tokens';
 
 export const ThemeContext = createContext<{
 	theme: Theme | undefined;
 	changeTheme: (theme: Theme) => void;
 }>({
 	theme: undefined,
-	changeTheme: () => {},
+	changeTheme: () => { },
 });
 
 export const ThemeProvider = ({ children }: { children: React.ReactNode }) => {

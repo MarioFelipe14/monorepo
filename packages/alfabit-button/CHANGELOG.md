@@ -1,4 +1,4 @@
-# @cicatrizdev/alfabit-button
+# @felipebarbosa/alfabit-button
 
 ## 1.1.0
 

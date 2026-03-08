@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react';
 import { fn } from '@storybook/test';
-import { Button } from '@cicatrizdev/alfabit-button';
+import { Button } from '@felipebarbosa/alfabit-button';
 
 const meta = {
 	title: 'Moléculas/Button',

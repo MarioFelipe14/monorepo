@@ -12,10 +12,10 @@
 		"build-storybook": "storybook build"
 	},
 	"dependencies": {
-		"@cicatrizdev/alfabit-button": "workspace:*",
-		"@cicatrizdev/alfabit-input": "workspace:*",
-		"@cicatrizdev/alfabit-textblock": "workspace:*",
-		"@cicatrizdev/alfabit-tokens": "workspace:*",
+		"@felipebarbosa/alfabit-button": "workspace:*",
+		"@felipebarbosa/alfabit-input": "workspace:*",
+		"@felipebarbosa/alfabit-textblock": "workspace:*",
+		"@felipebarbosa/alfabit-tokens": "workspace:*",
 		"react": "^18.3.1",
 		"react-dom": "^18.3.1",
 		"styled-components": "^6.1.13"

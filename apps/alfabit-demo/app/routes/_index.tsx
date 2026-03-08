@@ -1,6 +1,6 @@
 /* eslint-disable import/no-unresolved */
-import { Button } from '@cicatrizdev/alfabit-button';
-import { darkTheme, lightTheme } from '@cicatrizdev/alfabit-tokens';
+import { Button } from '@felipebarbosa/alfabit-button';
+import { darkTheme, lightTheme } from '@felipebarbosa/alfabit-tokens';
 import type { MetaFunction } from '@remix-run/node';
 import { useContext } from 'react';
 import { customTheme } from '~/config/themes';
